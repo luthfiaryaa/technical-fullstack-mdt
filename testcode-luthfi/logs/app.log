@@ -1,0 +1,11 @@
+2024-05-31 10:42:14 [http-nio-8080-exec-6] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:17:13 [http-nio-8080-exec-9] ERROR c.b.controller.AccountController - Login failed for username: s: No value present
+2024-05-31 11:17:19 [http-nio-8080-exec-1] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:19:33 [http-nio-8080-exec-4] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:21:53 [http-nio-8080-exec-7] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:25:21 [http-nio-8080-exec-10] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:26:23 [http-nio-8080-exec-3] ERROR c.b.controller.AccountController - Login failed for username: test: Bad credentials
+2024-05-31 11:26:27 [http-nio-8080-exec-5] INFO  c.b.controller.AccountController - Login successful for username: test
+2024-05-31 11:30:17 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 11:30:17 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-31 11:30:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
